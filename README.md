@@ -1,26 +1,52 @@
-#  Hamrani Younes
+# Hello
 
-**`System/Telecom admin && UMons master student`**
+```js
+const INFO = {
+   name: Hamrani Younes
+   aboutMe:
+   "Freshly graduated from my bachelor, I am currently a system/telecom administrator at ETNIC in Brussels. In parallel, I am starting a Master degree in computer sciences at UMons in Charleroi."
+   languages: [
+      "Python",
+      "C",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "MySQL",
+      "Typescript",
+      "LaTex",
+   ],
+   skills: [
+      "Linux",
+      "Windows",
+      "Git",
+      "Ansible",
+      "Docker",
+      "CCNA",
+   ],
+   tools: ["VSCode","Git"]
+};
+```
 
-Freshly graduated from my bachelor in computer sciences, I choosed to launch in a new adventure by aquiring a master degree.
-I curently work as a system/telecom administrator at ETNIC in Brussels.
+<p>
+   <a href="https://hamraniyounes.github.io">
+      <img alt="Younes portfolio" title="My portfolio" src="https://custom-icon-badges.demolabs.com/badge/my--website-white.svg?logo=sly-portfolio"/>
+   </a>
+   <a href="https://www.linkedin.com/in/younes-hamrani/">
+      <img alt="Younes LinkedIn" title="My Linkedin" src="https://custom-icon-badges.demolabs.com/badge/younes-blue.svg?logo=linkedin"/>
+   </a>
+</p>
+---
+### Languages and tools
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" />
 
 ---
-
-# Contact
-
-<a href="https://www.linkedin.com/in/younes-hamrani/">
-         <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Younes Hamrani-blue.svg?logo=linkedin"/></a>
-      <a href="https://hamraniyounes.github.io/">
-         <img alt="Younes Portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/my--website-white.svg?logo=sly-portfolio"/></a>
-
----
-
-<p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HamraniYounes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/HamraniYounes?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/HamraniYounes?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-   
-   ---
