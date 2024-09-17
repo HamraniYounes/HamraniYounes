@@ -25,6 +25,7 @@ const INFO = {
    ],
    tools: ["VSCode","Git"]
 };
+```
 
 ### Languages and tools
 
