@@ -44,4 +44,6 @@ const INFO = {
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" />
 <br />
 
+---
+
 ![typing-cute-cats](https://github.com/user-attachments/assets/dd08aec0-9940-4f2d-838d-510eb705391d)
