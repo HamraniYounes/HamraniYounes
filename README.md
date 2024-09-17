@@ -25,17 +25,6 @@ const INFO = {
    ],
    tools: ["VSCode","Git"]
 };
-```
-
-<p>
-   <a href="https://hamraniyounes.github.io">
-      <img alt="Younes portfolio" title="My portfolio" src="https://custom-icon-badges.demolabs.com/badge/my--website-white.svg?logo=sly-portfolio"/>
-   </a>
-   <a href="https://www.linkedin.com/in/younes-hamrani/">
-      <img alt="Younes LinkedIn" title="My Linkedin" src="https://custom-icon-badges.demolabs.com/badge/younes-blue.svg?logo=linkedin"/>
-   </a>
-</p>
----
 
 ### Languages and tools
 
@@ -50,5 +39,3 @@ const INFO = {
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" />
 <br />
-#
-
