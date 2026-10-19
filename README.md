@@ -6,7 +6,7 @@
 const INFO = {
    name: Hamrani Younes
    aboutMe:
-   "Freshly graduated from my bachelor, I am currently a system/telecom administrator at ETNIC in Brussels. In parallel, I am starting a Master degree in computer sciences at UMons in Charleroi."
+   "Trained in network infrastructure (routing/switching at CCNA level, Fortinet), Windows/Linux administration and automation with Python and Ansible — with a strong interest in security and programmable infrastructure."
    languages: [
       "Python",
       "C",
